@@ -74,21 +74,10 @@ Le projet s'appuiera sur les technologies suivantes :
 7. **Déploiement** :
    - Déployer l'application sur un serveur et la tester dans un environnement réel.
 
-#### **Cas d'utilisation :**
-1. **Sécurité et authentification** :
-   - Le système pourrait être utilisé pour **authentifier** les utilisateurs dans des systèmes sécurisés sans besoin de mots de passe.
-
-2. **Personnalisation dans les applications vocales** :
-   - Le système pourrait personnaliser les réponses d'une application vocale (comme une assistante vocale) en fonction de l'utilisateur identifié.
-
-3. **Systèmes domotiques** :
-   - Le système pourrait être utilisé dans des maisons intelligentes pour identifier qui donne des commandes vocales et ajuster les paramètres en fonction (par exemple, préférences d'éclairage ou de température).
 
 #### **Outils et bibliothèques supplémentaires :**
 - **SQLite ou PostgreSQL** pour la base de données des utilisateurs.
 - **Nginx** ou **Apache** pour le déploiement du serveur Django.
 - **Pyaudio** ou toute autre bibliothèque Python pour capturer et traiter les entrées audio.
 
-#### **Conclusion :**
-Ce projet d'identification de voix repose sur des technologies éprouvées et open source, rendant le développement accessible et flexible. L'utilisation de Vosk pour la reconnaissance vocale hors ligne permet d'éviter la dépendance à des services tiers et d'assurer la confidentialité des utilisateurs. Le projet a de multiples cas d'utilisation, allant de la sécurité à la personnalisation des services, et peut être adapté à diverses plateformes et environnements.
 
