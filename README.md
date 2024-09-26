@@ -4,13 +4,13 @@ Abdou Samath seck
 Dorian Lovichi
 
 Ce système utilise les fonctionnalités d'authentification intégrées de Django, qui simplifient considérablement la gestion des utilisateurs, des sessions, et de la sécurité.
-Pour le systeme d'idntifiaction de voix on va utiliser un API de reconnaisence de voix (IBM Watson Speech to Text).
+Pour le systeme d'idntifiaction de voix on va utiliser un API de reconnaisence de voix (Vosk).
 
-IBM Watson Speech to Text
-IBM Watson propose une API robuste de reconnaissance vocale avec un plan gratuit.
+Vosk API (Open Source)
+Vosk est une bibliothèque de reconnaissance vocale open source qui fonctionne hors ligne. Elle est très légère et facile à intégrer dans des applications Python, JavaScript, Java, et d'autres langages.
 
+Gratuit : Complètement gratuit et open source.
 Caractéristiques :
-Reconnaissance en temps réel.
-Personnalisation de modèle.
-Multilingue, avec prise en charge de plusieurs dialectes et langues.
-Lien : IBM Watson Speech to Text
+Fonctionne hors ligne, donc aucune API externe n'est nécessaire.
+Prend en charge plus de 20 langues.
+Compatible avec Raspberry Pi et d'autres systèmes légers.
