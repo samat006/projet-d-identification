@@ -3,6 +3,7 @@
 **Participants :**
 - Abdou Samath Seck
 - Dorian Lovichi
+- Dahdouh Ahmed
 
 #### **Description du projet :**
 L'objectif de ce projet est de développer une intelligence artificielle (IA) capable d'identifier une voix et de l'associer à un utilisateur précis. Ce système pourrait être utilisé dans divers cas d'utilisation tels que l'authentification sécurisée, la reconnaissance d'utilisateurs dans des applications vocales ou encore la personnalisation d'interactions en fonction des utilisateurs.
